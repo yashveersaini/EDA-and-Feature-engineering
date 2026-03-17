@@ -48,8 +48,7 @@ To build a strong foundation in:
 ## 📂 Datasets Covered
 
 📌 (Will keep updating as I learn more!)
-- Titanic Dataset  
-- House Prices Dataset  
+- Google PlayStore Dataset
 - More coming soon...  
 
 ---
